@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T07:53:28.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZpuUF89j3bz1kBz15Fl3" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-05T07:55:05.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lt1xK2PnfmuY1LrMtyrU" version="24.6.4" type="github" pages="3">
   <diagram name="ページ1" id="WoU76JaHdQ1nm9ahG_pK">
     <mxGraphModel dx="794" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,8 +257,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-DQaquTHcPs-QZnrsUMb" name="ページ3">
-    <mxGraphModel dx="2647" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+  <diagram id="-DQaquTHcPs-QZnrsUMb" name="登録サブルーチン">
+    <mxGraphModel dx="1323" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
